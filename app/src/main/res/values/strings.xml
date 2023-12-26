@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dssss</string>
+    <string name="TV">Name:</string>
+    <string name="TV2">Company:</string>
+    <string name="age">Age:</string>
+    <string name="save">Save</string>
+</resources>
